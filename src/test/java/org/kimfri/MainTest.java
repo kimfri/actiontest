@@ -7,6 +7,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MainTest {
 
+  /**
+   * What's the use of documenting this??.
+   */
   private final Main main = new Main();
 
   /**

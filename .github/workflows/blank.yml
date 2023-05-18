@@ -39,9 +39,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: run second job
-      run: echo Second job, called dliub
-      
+      - name: run second job
+        run: echo Second job, called dliub
+
   test:
     runs-on: ubuntu-latest
     
