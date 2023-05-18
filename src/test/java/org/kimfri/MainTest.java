@@ -8,10 +8,23 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class MainTest {
 
   private final Main main = new Main();
-  private final static int ONE = 1;
-  private final static int TWO = 2;
-  private final static int THREE = 3;
-  private final static int FOUR = 4;
+
+  /**
+   * But why?.
+   */
+  private static final int ONE = 1;
+  /**
+   * But why?.
+   */
+  private static final int TWO = 2;
+  /**
+   * But why?.
+   */
+  private static final int THREE = 3;
+  /**
+   * But why?.
+   */
+  private static final int FOUR = 4;
 
   @ParameterizedTest
   @ValueSource(ints = {ONE, TWO, THREE, FOUR})
