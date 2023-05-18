@@ -5,7 +5,7 @@ public class Main {
   /**
    * Method will add first and second argument.
    *
-   * @param first  int
+   * @param first int
    * @param second int
    * @return the calculated value of first + second
    */

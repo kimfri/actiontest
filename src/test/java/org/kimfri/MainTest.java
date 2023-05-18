@@ -7,26 +7,16 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 class MainTest {
 
-  /**
-   * What's the use of documenting this??.
-   */
+  /** What's the use of documenting this??. */
   private final Main main = new Main();
 
-  /**
-   * But why?.
-   */
+  /** But why?. */
   private static final int ONE = 1;
-  /**
-   * But why?.
-   */
+  /** But why?. */
   private static final int TWO = 2;
-  /**
-   * But why?.
-   */
+  /** But why?. */
   private static final int THREE = 3;
-  /**
-   * But why?.
-   */
+  /** But why?. */
   private static final int FOUR = 4;
 
   @ParameterizedTest
