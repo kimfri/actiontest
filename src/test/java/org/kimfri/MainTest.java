@@ -7,7 +7,6 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 class MainTest {
 
-  /** What's the use of documenting this??. */
   private final Main main = new Main();
 
   /** But why?. */
