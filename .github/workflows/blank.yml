@@ -34,13 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-  # This is another job called dliub
-  dliub:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: run second job
-        run: echo Second job, called dliub
 
   test:
     runs-on: ubuntu-latest
